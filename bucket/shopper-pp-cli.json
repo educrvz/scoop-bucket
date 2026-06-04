@@ -1,21 +1,21 @@
 {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/educrvz/shopper-pp-cli/releases/download/v1.0.1/shopper-pp-cli_1.0.1_windows_amd64.zip",
+            "url": "https://github.com/educrvz/shopper-pp-cli/releases/download/v1.1.0/shopper-pp-cli_1.1.0_windows_amd64.zip",
             "bin": [
-                "shopper-pp-cli.exe",
-                "shopper-pp-mcp.exe"
+                "shopper-pp-mcp.exe",
+                "shopper-pp-cli.exe"
             ],
-            "hash": "7c4a9f1ee4f6a05e82230cee75c85671929e6327237ce0f7de66d8b7c5bf0565"
+            "hash": "41481333dcb3d36764e15b8863027e668993a706020513975b758d1db387d255"
         },
         "arm64": {
-            "url": "https://github.com/educrvz/shopper-pp-cli/releases/download/v1.0.1/shopper-pp-cli_1.0.1_windows_arm64.zip",
+            "url": "https://github.com/educrvz/shopper-pp-cli/releases/download/v1.1.0/shopper-pp-cli_1.1.0_windows_arm64.zip",
             "bin": [
                 "shopper-pp-cli.exe",
                 "shopper-pp-mcp.exe"
             ],
-            "hash": "b74340a4f4c77357d9c6d9d0a4059a0d2ff47798b42fee2cc0c83cdbb85cb881"
+            "hash": "75da4648a80e79e20707e50f4628d6b4f7d90fd10acff07d219169a9040eaa5f"
         }
     },
     "homepage": "https://github.com/educrvz/shopper-pp-cli",
